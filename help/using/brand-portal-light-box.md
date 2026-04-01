@@ -6,6 +6,15 @@ products: SG_EXPERIENCEMANAGER/Brand_Portal
 topic-tags: download-install
 role: Admin
 exl-id: 84160b81-e321-4920-9a86-e4cce3fa874c
+TQID: https://experienceleague.adobe.com/L2E-5TOIkUJ0eC73It7IY9FLcvq9NrFnzw-lFUu6FKc
+product_v2:
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # Manage the lightbox collection {#manage-the-lightbox-collection}
 
