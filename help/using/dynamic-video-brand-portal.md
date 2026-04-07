@@ -77,7 +77,7 @@ To work with dynamic videos on Brand Portal, make sure to:
    |--- |--- |
    | NA | 130.248.160.68, 20.94.203.130  |
    | EMEA | 185.34.189.3, 51.132.146.75 |
-   | APAC | 63.140.44.54 |
+   | APAC | 172.82.240.74, 172.82.240.75 |
 
    To allowlist either of these egress IPs, see [Prepare your account for a secure testing service](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/upload-publish/testing-assets-making-them-public#testing-the-secure-testing-service).
 
