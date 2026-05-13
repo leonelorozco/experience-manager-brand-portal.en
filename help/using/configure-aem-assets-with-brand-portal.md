@@ -7,6 +7,21 @@ topic-tags: brand-portal
 products: SG_EXPERIENCEMANAGER/Brand_Portal
 role: Admin
 exl-id: 261c0e84-6b3d-459c-b6b9-a9af106d6943
+TQID: https://experienceleague.adobe.com/-FF6IXLHoYo485vkZVBaYMrVlZZYys0shOr9OChBlao
+product_v2:
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: da0dfbce-df02-4f8b-b32d-a4e3b1d05085
+    internal-label: Configuration
+subfeature_v2:
+  - id: e00c7c12-7035-41fe-ad76-1ec82c8c3f01
+    internal-label: Brand Portal
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # Configure Experience Manager Assets with Brand Portal {#configure-integration}
 

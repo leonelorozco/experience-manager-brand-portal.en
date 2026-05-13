@@ -6,6 +6,26 @@ topic-tags: download-install, download assets
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Brand_Portal
 exl-id: cf28df58-c6dd-4b12-8279-01351892009f
+TQID: https://experienceleague.adobe.com/4YwbUZ1PopjlrANgrvsKdf1EczcUTD2VR4PPyfRs1f4
+product_v2:
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: da0dfbce-df02-4f8b-b32d-a4e3b1d05085
+    internal-label: Configuration
+subfeature_v2:
+  - id: e00c7c12-7035-41fe-ad76-1ec82c8c3f01
+    internal-label: Brand Portal
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Speed up the Brand Portal downloads {#guide-to-accelerate-downloads-from-brand-portal}
 

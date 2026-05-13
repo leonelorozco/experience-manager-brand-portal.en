@@ -2,6 +2,18 @@
 title: Adobe Experience Manager Assets Brand Portal Guide
 description: Use Experience Manager Assets Brand Portal to meet marketing needs by securely distributing approved brand and product assets to external agencies, partners, internal teams, and resellers for download.
 exl-id: bc9a7ab7-4d43-4004-94b3-b2c9eadad9e3
+TQID: https://experienceleague.adobe.com/-IsbLpGrq16MLj74ma34fxV3ac9EKMNBMny7taDO6ZQ
+product_v2:
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Adobe Experience Manager Assets Brand Portal Guide {#aem-brand-portal}
 

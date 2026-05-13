@@ -5,13 +5,28 @@ content-type: reference
 topic-tags: brand-portal
 products: SG_EXPERIENCEMANAGER/Brand_Portal
 sub-product: assets
-topics: collaboration, content-velocity, sharing 
+topics: collaboration, content-velocity, sharing
 doc-type: feature-video
 activity: use
 audience: author, marketer
 version: Experience Manager 6.5
 kt: 3838
 exl-id: 2c132a7a-ed10-4856-8378-67939167ea60
+TQID: https://experienceleague.adobe.com/52tECcTrEZL6eSx--nL07mGMJ94Tf7B6ZlHQ8BlqNvY
+product_v2:
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: da0dfbce-df02-4f8b-b32d-a4e3b1d05085
+    internal-label: Configuration
+subfeature_v2:
+  - id: e00c7c12-7035-41fe-ad76-1ec82c8c3f01
+    internal-label: Brand Portal
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Asset Sourcing overview {#overview-asset-sourcing-in-bp}
 

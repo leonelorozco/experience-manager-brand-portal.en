@@ -1,11 +1,20 @@
 ---
-title: Configure and publish contribution folder from Experience Manager Assets to Brand Portal 
+title: Configure and publish contribution folder from Experience Manager Assets to Brand Portal
 description: Get an insight into configuring and publishing a contribution folder from Experience Manager Assets to Brand Portal.
 content-type: reference
 contentOwner: Vishabh Gupta
 topic-tags: brand-portal
 products: SG_EXPERIENCEMANAGER/Brand_Portal
 exl-id: 9acad588-977a-45de-b544-f2cc8874ba12
+TQID: https://experienceleague.adobe.com/o--c7CzIqcaLPuOVG81dQpALRa0wxI-Aul6F-pN-spI
+product_v2:
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Configure contribution folder in Experience Manager Assets {#configure-contribution-folder}
 
